@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "text": "Junta de trabajo",
+      "status": "in progress",
+      "id": "d207"
+    },
+    {
+      "text": "Contestar correos",
+      "status": "done",
+      "id": "4595"
+    },
+    {
+      "text": "Llamar a proveedores",
+      "status": "in progress",
+      "id": "cc19"
+    }
+  ]
+}
