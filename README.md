@@ -15,6 +15,7 @@ if you want you can set the port for the server in the scripts of the package.js
 "start:server": "json-server --watch db.json --port 3005"
 
 ### 3. Install the node modules with
+#### Require node 18 or higher 
 ### `npm install`
 
 ### 4. To run the project
